@@ -16,6 +16,7 @@ We hope you find the information contained below useful and good luck on your co
 | -------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ---------------------------------------------------- |
 | AHGLAB Consultancy Services Inc.       | [Web Developer Intern](https://ph.jobslin.com/job/105041/web-developer-intern-in-national-capital-region)                                                                                                 | Mandaluyong, NCR |                                                      |
 | Amdocs                                 | [Software Engineer Intern](https://amdocs.eightfold.ai/careers?pid=563430996814836&domain=amdocs.com)                                                                                                     | Taguig           |                                                      |
+| Argon Software | Software Engineering Intern | | Send your resume to admin@argon-software.com |
 | Asurion                                | [Developer Intern](https://careers.asurion.com/us/en/job/ASU0008531/Developer-Intern)                                                                                                                     | Taguig City      |                                                      |
 | Azeus                                  | [Web Development Intern](https://www.careers-page.com/azeus-systems-limited/job/QX9V8353)                                                                                                                 | Pasig, NCR       | Remote                                               |
 | Azeus                                  | [Software Development Intern](https://www.careers-page.com/azeus-systems-limited/job/L7X7888X)                                                                                                            | Pasig, NCR       | Remote                                               |
@@ -34,12 +35,14 @@ We hope you find the information contained below useful and good luck on your co
 | Pixel8 | [Dev Roles](https://register.pixel8.ph/#/) | | |
 | P&G                                    | [IT Intern](https://bit.ly/PGCampITInternship2024)                                                                                                                                                        | Taguig City      | On-site; Deadline of application is on January 30    |
 | Qadra Studio                           | [Frontend Web Developer](https://qadra.studio/remote-internships/)                                                                                                                                        | Remote           |                                                      |
+| Razza Consulting Inc. | Software Engineering Intern | | Send your resume to mike.torres@razzaconsulting.com |
 | Thinking Machines Data Science         | [Software Engineering](https://thinkingmachines.freshteam.com/jobs/l6pIMV3QfxHh/ph-intern-engineering-track?ft_source=4000147442&ft_medium=4000139498)                                                    | Remote           | Paid                                                 |
+| Timefree Innovations Inc. | Web Dev Intern | | Send your resume to ann@timefree.ph |
 | Trend Micro                            | [Cybersecurity Intern](https://trendmicro.wd3.myworkdayjobs.com/en-US/External/job/Cybersecurity-Intern_R0005760?locationCountry=e56f1daf83e04bacae794ba5c5593560)                                        | Manila           |                                                      |
 | WAZILE                                 | [Web Developer](https://www.wazile.com/jobs/#internship)                                                                                                                                                  | Paranaque        |                                                      |
 | White Widget | [Software Engineering Intern](https://whitewidget.com/careers/software-engineering-intern) | | |
 | Winged Recruitment | [Frontend Developer Intern](https://www.careers-page.com/winged-recruitment/job/L473RXRV?utm_medium=free_job_board&utm_source=linkedin) | | |
-| [WTW](https://www.linkedin.com/company/wtwcorporate/?originalSubdomain=ph) | [Intern](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202308829?utm_medium=jobshare) |  |
+| WTW | [Intern](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202308829?utm_medium=jobshare) |  |
 
 <div align="center" >
 <h3>
