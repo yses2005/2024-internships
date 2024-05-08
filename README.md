@@ -1,5 +1,7 @@
 # 2024-Internships
 
+**Credits:** https://github.com/uwcsc/2023-internships
+
 The information contained below includes links and resources on various computer science and software engineering related internships for the 2024 job search :man_technologist: :woman_technologist:
 
 Feel free to add your contribution to this repository by creating a pull request :octocat: or filling out this [form](https://docs.google.com/forms/d/e/1FAIpQLSeYA4oajfo5qjzmzZUQiFvS7e0tj_4ct0ZOWZblmiIwcUf3Kg/viewform).
