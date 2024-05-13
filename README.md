@@ -39,6 +39,7 @@ We hope you find the information contained below useful and good luck on your co
 | Razza Consulting Inc. | Software Engineering Intern | | Send your resume to mike.torres@razzaconsulting.com |
 | Thinking Machines Data Science         | [Software Engineering](https://thinkingmachines.freshteam.com/jobs/l6pIMV3QfxHh/ph-intern-engineering-track?ft_source=4000147442&ft_medium=4000139498)                                                    | Remote           | Paid                                                 |
 | Timefree Innovations Inc. | Web Dev Intern | | Send your resume to ann@timefree.ph |
+| Tipaklong | CS Intern | | Send an email to arnold_bufi@tipaklong.com |
 | Trend Micro                            | [Cybersecurity Intern](https://trendmicro.wd3.myworkdayjobs.com/en-US/External/job/Cybersecurity-Intern_R0005760?locationCountry=e56f1daf83e04bacae794ba5c5593560)                                        | Manila           |                                                      |
 | WAZILE                                 | [Web Developer](https://www.wazile.com/jobs/#internship)                                                                                                                                                  | Paranaque        |                                                      |
 | White Widget | [Software Engineering Intern](https://whitewidget.com/careers/software-engineering-intern) | | |
