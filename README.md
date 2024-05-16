@@ -59,7 +59,7 @@ We hope you find the information contained below useful and good luck on your co
 
 | Link        | Notes       |
 | ----------- | ----------- |
-| Placeholder | Description |
+| [Prosple](https://ph.prosple.com/) | Job site for internships and entry-level jobs |
 
 ## Resume/CV Resources
 
