@@ -79,6 +79,7 @@ We hope you find the information contained below useful and good luck on your co
 | [LeetCode 150](https://leetcode.com/studyplan/top-interview-150/)                   | 150 of the most popular technical interview questions                                                                |
 | [LeetCode](https://leetcode.com/explore/)                                           | Platform to prepare for technical interviews                                                                         |
 | [Tech Interview Handbook](https://www.techinterviewhandbook.org/)                   | Curated technical, behaviorial, and systems design interview preparation materials with algorithms study cheatsheets |
+| [Technical and Behavioral Interview Tips](https://www.codecademy.com/resources/blog/technical-and-behavioral-interview-tips/) | A short blog on how to ace both your behavior and technical interviews when applying for a job in the tech industry. |
 
 ## Mentor Contacts
 
