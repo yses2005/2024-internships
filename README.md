@@ -10,7 +10,7 @@ Please add postings in alphabetical order by company name!
 
 We hope you find the information contained below useful and good luck on your co-ops 🥳
 
-## Postings
+## Open Postings
 
 | Company Name                           | Position/s                                                                                                                                                                                                | Location         | Notes                                                |
 | -------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ---------------------------------------------------- |
@@ -54,6 +54,10 @@ We hope you find the information contained below useful and good luck on your co
 
 </h3>
 </div>
+
+# Closed Postings
+| Company Name                           | Position/s                                                                                                                                                                                                | Location         | Notes                                                |
+| -------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ---------------------------------------------------- |
 
 ## Job Search Resources
 
